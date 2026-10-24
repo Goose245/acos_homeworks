@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -pedantic -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/barbershop_threads.dir/src/main.c.o CMakeFiles/barbershop_threads.dir/src/logger.c.o CMakeFiles/barbershop_threads.dir/src/barbershop.c.o -o barbershop_threads

@@ -1,0 +1,3 @@
+/Users/polzovatel/acos_homeworks/hw2/build/CMakeFiles/barbershop_threads.dir
+/Users/polzovatel/acos_homeworks/hw2/build/CMakeFiles/edit_cache.dir
+/Users/polzovatel/acos_homeworks/hw2/build/CMakeFiles/rebuild_cache.dir
